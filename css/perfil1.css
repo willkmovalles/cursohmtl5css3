@@ -1,0 +1,40 @@
+body{background-color:#95a5a6
+}
+
+#seccprin{background-color: #e74c3c
+; width: 960px;
+margin: 0 auto;
+border-radius: 15px
+}
+
+#secctitle{background-color: #ffffff;
+    padding: 5%;
+    text-align: center;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+   }
+
+   .img-redonda{border-radius: 50%
+}
+
+.padre{display: table
+}
+
+.hijo{display: table-cell
+}
+
+.parrafo{padding: 20px;
+    text-align: center
+}
+
+.title{text-align: center;
+font-style: italic;
+color: honeydew
+}
+
+#text-footer{
+text-align: center;
+color: #ffffff;
+font-size: 15px;    
+font-weight: bold
+}
